@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **Educación para la salud en contextos de las rutas integrales de atención en salud**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://ecored-bogota-dc.github.io/INFO_EDUCACION_SALUD_CONTEXTO/](https://ecored-bogota-dc.github.io/INFO_EDUCACION_SALUD_CONTEXTO/)
 
 #
